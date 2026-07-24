@@ -8,6 +8,7 @@ const DATA = {
   // ── Navigation ──────────────────────────────────────────────────────────────
   nav: {
     logo: 'BALARAMAN SRIRAM',
+    logoImage: 'logo.svg',
     links: [
       { label: 'The Lab',        href: '#lab' },
       { label: 'The Study',      href: '#study' },

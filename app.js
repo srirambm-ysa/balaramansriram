@@ -13,8 +13,11 @@ function imgOrFallback(src, alt, prefix) {
 }
 
 function renderNav(d) {
+  const logoImg = d.logoImage
+    ? `<img src="${d.logoImage}" alt="" class="nav-logo-img">`
+    : '';
   document.getElementById('nav').innerHTML = `
-    <a href="#" class="nav-logo">${d.logo}</a>
+    <a href="#" class="nav-logo">${logoImg} ${d.logo}</a>
     <div class="nav-links">
       ${d.links.map(l => `<a href="${l.href}">${l.label}</a>`).join('')}
       <button class="nav-toggle" aria-label="Menu">☰</button>
