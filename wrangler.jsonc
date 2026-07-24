@@ -7,6 +7,12 @@
     "directory": ".",
     "binding": "ASSETS"
   },
+  "kv_namespaces": [
+    {
+      "binding": "VISITOR_COUNT",
+      "id": "5f1315bc736e42f8bf13aba722756fa1"
+    }
+  ],
   "compatibility_flags": [
     "nodejs_compat"
   ]
