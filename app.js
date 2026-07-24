@@ -221,8 +221,8 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   });
 
-  // Visitor count via CountAPI
-  fetch('https://api.countapi.xyz/hit/balaramsriram-personal/visits')
+  // Visitor count via Worker KV
+  fetch('/api/visitor-count')
     .then(r => r.json())
     .then(d => { document.getElementById('visitor-count').textContent = d.value; })
     .catch(() => { document.getElementById('visitor-count').textContent = '—'; });

@@ -54,7 +54,7 @@ const DATA = {
       { name: 'Travel Itinerary Planner',   desc: 'Travel Itinerary Generator'},
       { name: 'GLQuoter',  desc: 'CRM for small Travel Agencies' },
       { name: 'Flight Price Intelligence',          desc: 'offline Airfare Comparison' },
-      { name: 'Siddha Guna Padam Chatbot',   desc: 'Vegtables & Fruits Properties for Ayurvedic Body Types' },
+      { name: 'Siddha Guna Padam Chatbot',   desc: 'Vegetables & Fruits Properties for Ayurvedic Body Types' },
       { name: 'Trade Watch',   desc: 'Custom Indian market momentum scanner' }
     ]
   },
@@ -81,7 +81,7 @@ const DATA = {
       { title: 'Saint Thayumanavar',  status: 'Available on Amazon Kindle ↗', url:'https://a.co/d/0fHjaTqw' },
       { title: 'Vinayagar Agaval',  status: 'Published on Medium ↗', url: 'https://medium.com/@ibala72/vinayagar-agaval-f51d4bcb4fa0' },
       { title: 'Kandar Anubhoothi',  status: 'Published on Medium ↗', url: 'https://medium.com/@ibala72/kandar-anubhoothi-with-english-meaning-bb04a8dda28f' },
-      { title: 'Gitasaara Thalattu',  status: 'Published on Medium↗', url:'https://medium.com/@ibala72/bhagvadgita-as-a-lullaby-91d6d875e2d1' },
+      { title: 'Gitasaara Thalattu',  status: 'Published on Medium ↗', url:'https://medium.com/@ibala72/bhagvadgita-as-a-lullaby-91d6d875e2d1' },
       { title: 'The Holy Science of Sri Yukteshwar Giri',  status: 'Published on Medium ↗', url:'https://medium.com/@ibala72/sri-swami-yukteshwar-giri-727bab702a88' },
       { title: 'Pamban Swamigal ChitraKavi',  status: 'Published on Medium ↗', url:'https://medium.com/@ibala72/pamban-swamigal-showed-his-mathematical-genius-as-well-as-poetic-skills-when-he-created-the-7e60c10e397e' }
     ]
@@ -102,13 +102,13 @@ const DATA = {
       "year": "2023-",
       "title": "Principal Consultant & AI Experimenter & Researcher",
       "subtitle": "Your Strategic Advisor",
-      "desc": "The Advent of AI was a turning point for my business ideas. Your strategic advisor was a brand as well as a lab for me to try out various business ideas. What started as a climate focussed consulting practice, turned  to focus on custom AI integration, local LLM orchestration workflows, desktop automation environments, and quantitative algorithmic investment analytics. The resulting products are showcased in this site and product pages."
+      "desc": "The Advent of AI was a turning point for my business ideas. Your strategic advisor was a brand as well as a lab for me to try out various business ideas. What started as a climate focused consulting practice, turned to focus on custom AI integration, local LLM orchestration workflows, desktop automation environments, and quantitative algorithmic investment analytics. The resulting products are showcased in this site and product pages."
     },
     {
       "year": "2019-2023",
       "title": "Writer, Storyteller-Sabbatical and Spiritual Focus",
       "subtitle": "Reason & Resonance",
-      "desc": "The jarring arrival of COVID and the subsequent havoc in society, created a moment of spiritual necessity. It became a period of discovering the ancient roots of my religion and spirituality. Trained in yoga - mulitple systems like isha, SKY, Art of Living, wrote poetry, performed deep study of relgious texts, the outcome of which was expressed in my medium blogs and kindle books and later took a more professional turn on substack. A period of rest, rejuvenation and blossoming."
+      "desc": "The jarring arrival of COVID and the subsequent havoc in society, created a moment of spiritual necessity. It became a period of discovering the ancient roots of my religion and spirituality. Trained in yoga - multiple systems like isha, SKY, Art of Living, wrote poetry, performed deep study of religious texts, the outcome of which was expressed in my medium blogs and kindle books and later took a more professional turn on substack. A period of rest, rejuvenation and blossoming."
     },
     {
       "year": "2017-2018",
@@ -120,13 +120,13 @@ const DATA = {
       "year": "2010-2017",
       "title": "Associate General Manager",
       "subtitle": "HCL Technologies / Global Delivery Operations",
-      "desc": "Directed large-scale system delivery portfolios for global accounts. Spearheaded critical onsite engineering governance for Tyco Fire & Security in Ratingen, Germany, and managed core Citibank TTS Asia Pacific DEvops."
+      "desc": "Directed large-scale system delivery portfolios for global accounts. Spearheaded critical onsite engineering governance for Tyco Fire & Security in Ratingen, Germany, and managed core Citibank TTS Asia Pacific DevOps."
     },
     {
       "year": "2004-2010",
-      "title": "Independent 3d Party Testing & Quality/Process Focus",
+      "title": "Independent 3rd Party Testing & Quality/Process Focus",
       "subtitle": "Cognizant / TCS / Thinksoft Global",
-      "desc": "Designed and established specialized Testing Centers of Excellence (TCoE) for Tier-1 financial institutions including Morgan Stanley. Pioneered architectural concepts for enterprise data warehouse framework verification.Managed Large testing accounts like Pepsico"
+      "desc": "Designed and established specialized Testing Centers of Excellence (TCoE) for Tier-1 financial institutions including Morgan Stanley. Pioneered architectural concepts for enterprise data warehouse framework verification. Managed Large testing accounts like PepsiCo"
     },
     {
       "year": "1994-2001",
